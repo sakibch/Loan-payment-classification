@@ -6,6 +6,6 @@ The following algorithms will be used to build the models:
 
 k-Nearest Neighbour, Decision Tree, Support Vector Machine, Logistic Regression
 
-The results is reported as the accuracy of each classifier, using the following metrics:
+The results are reported as the accuracy of each classifier, using the following metrics:
 
 Jaccard index, F1-score, LogLoss
