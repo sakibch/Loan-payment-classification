@@ -8,4 +8,6 @@ k-Nearest Neighbour, Decision Tree, Support Vector Machine, Logistic Regression
 
 The results are reported as the accuracy of each classifier, using the following metrics:
 
-Jaccard index, F1-score, LogLoss
+Jaccard index, F1-score, LogLoss.
+
+![alt text](https://github.com/sakibch/paying_off_loans_classification/blob/master/metrics.png)
