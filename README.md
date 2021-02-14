@@ -1,4 +1,4 @@
-# classification-project
+
 **This project aims to build a classifier to predict whether a loan case will be paid off or not.**
 
 Historical datasets will be used from previous loan application. The data will be cleaned and then different classification algorithms will be used on the data.
